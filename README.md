@@ -17,3 +17,4 @@ This portfolio website is a project I developed as part of my internship to show
 #output
 
 ![Image](https://github.com/user-attachments/assets/5bc73bd3-cc78-4ad2-80f7-e8243d87e706)
+![Image](https://github.com/user-attachments/assets/3a41a6c0-aef9-4519-9f94-6ef41d0d4c0a)
